@@ -1,0 +1,679 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of the province of East-New-Jarsey in America published by the Scots proprietors having interest there, for the information of such as may have a desire to transport themselves or their families thither ; wherein the nature and advantage of, and interest in a forraign plantation to the country is demonstrated.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29410</idno>
+            <idno type="STC">Wing B4518</idno>
+            <idno type="STC">ESTC R10995</idno>
+            <idno type="EEBO-CITATION">11683376</idno>
+            <idno type="OCLC">ocm 11683376</idno>
+            <idno type="VID">48132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 16:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of the province of East-New-Jarsey in America published by the Scots proprietors having interest there, for the information of such as may have a desire to transport themselves or their families thither ; wherein the nature and advantage of, and interest in a forraign plantation to the country is demonstrated.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Reid,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plantations --  New Jersey.</term>
+               <term>New Jersey --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48132:1"/>
+            <pb facs="tcp:48132:1"/>
+            <p>A Brief Account of the PROVINCE OF EAST: NEW: JARSEY IN AMERICA: Publiſhed by the SCOTS
+PROPRIETORS Having INTEREST there. For the Information of ſuch, as may have a Deſire to
+Tranſport them<g ref="char:EOLhyphen"/>ſelves, or their Families thither. WHEREIN The Nature and Advantage of, and
+Intereſt in a Forraign Plantation to this Country is Demonſtrated.</p>
+            <p>EDINBURGH, Printed by <hi>JOHN REID,</hi> Anno DOM. 1683</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48132:2"/>
+            <pb facs="tcp:48132:2"/>
+            <head>A Brief Account of the Province of EAST: NEW: JARSEY IN AMERICA, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a Matter beyond all Queſtion, that Plantations in <hi>America,</hi> is a thing of a
+great Advantage to the Nations of <hi>Europe,</hi> which hath made each of them, ſince the
+diſcovery of it, ſeek ſo earneſtly to have Intereſt there. And ſince there is hardly
+any but has ſome footing, except SCOTLAND (the project of <hi>Nova Scotia</hi> having proved
+unſuccesful) yet not any to whoſe advantage it would ſo much Contribute, without the hazard
+of thoſe Difficulties, that may befall others by ſuch Colonies.</p>
+            <p>The chief Reaſon againſt Forraign Plantations being the drawing too many Inhabitants out of
+the Nation, and ſo leaving the Countries at Home unfurniſhed of People: This is that which
+makes ſome ſay that <hi>Spaine</hi> is rather a loſſer then a Gainer by their Forraign
+Plantations: But (beſides the bareneſs of the <hi>Spainiſh Nation;</hi> the extream heat of
+their Plantations; The Unhealthful Imployment of Working in their Mynes; add thereunto the juſt
+Diſpleaſure of the Almighty at their barbarous and cruell Uſage of the Natives, which
+juſtly takes away a Bleſſing from them, without which all Endeavours are vaine and
+fruitleſs.) Our Countrey is in no danger of Hurt that way, for we could ſpare ſeveral
+thouſands every year, without the leaſt prejudice of ſuch as ſtay at Home, and to the great
+Advantadge of thoſe going Abroad; Yea, were there but a way opened (as by the Providence of GOD,
+there ſeems one now in a good meaſure) that ſuch, who however do daily go out of SCOTLAND,
+upon a certain ſort of Neceſſitie to ſeek their Fortune, might find an Opportunity of a
+Forraign Plantation, there might in an Age, as large and plentiful a Colony of <hi>Scots-Men,</hi>
+be abroad as <hi>Scotland</hi> is at home, not inferior to <hi>Scotland</hi> in number, and farr
+exceeding it in Riches, and all other Conveniencies. Which; as it would be an Honour to our Nation,
+ſo would it give great ſatisfaction to moſt of People here, to underſtand their Friends and
+Relations were living ſo plentifully, and it would be a comfortable Receptacle for any here,
+whoſe Circumſtances made them uneaſy at Home.</p>
+            <p>To make this more manifeſtly appear, let it be conſidered what number of People have gone
+out of <hi>Scotland</hi> ſince the year 1618, That the Warrs began in <hi>Germany,</hi> ſince
+in the <hi>Swediſh</hi> Armie, at one time there was ſaid to be 27 <hi>Scots</hi> Collonells:
+And into <hi>France,</hi> to <hi>Dowglas Regiment,</hi> from time to time, We believe it will be
+granted but a modeſt Calculation to affirm there hath been many thouſands, and yet of that
+Vaſt Number few have ever returned, or had Succeſſion; ſcarce any Family hath remained
+Abroad in any Comfortable Setlement. And to be ſure, not the 10th part hath ever returned, that
+their Equipping them abroad coaſt; they all, either dyed, or been killed there, without any
+benefit to our Countrey but an empty Fame; Which is now in thoſe parts little or nothing
+conſidered.</p>
+            <p>
+               <pb n="4" facs="tcp:48132:3"/>Yea, it may be well affirmed, that the charge of <hi>James, Marqueſſe of
+Hamiltonne</hi> his Expedition in the year 1631. coaſt four times more then ever all our
+Souldiers of Fortune brought home to <hi>Scotland.</hi> Now, if theſe People had gone over to
+ſome Forraign Plantation, and had but a Proportionable number of Women with them, which this
+Countrey could eaſily have ſpared, what a brave and large Collonie would there have been by
+this time, and very advantagious to <hi>Scotland,</hi> as ſhall after be made appear.</p>
+            <p>Both the Gentrie and Commonalitie of our Countrey being very fruitful, and <hi>the Law giving to
+the Elder Brothers, all their Fathers Eſtates,</hi> and that of the younger being but ſmall, It
+is known, how they are for moſt part put upon the Rack for a comfortable Lively-hood, the
+<hi>Seſſion-houſe</hi> is not able to contain the hundred part of them; Where ſometimes
+alſo the elder Brothers will have their ſhare, and ſix or ſeven Advocats make, for moſt
+part the Lives of all the reſt, but a miſerable and tedious Drudgery, ſo that they are either
+forced to go abroad upon their Shifts, whence few or none of them ever return; or otherwiſe, if
+they ſtay at home, hange upon the Laird in a moſt ſlaviſh and ſordide manner, which is a
+great Debaſement to the Spirits of many, and a defeating of good Improvements they might make in
+the Creation, for by Birth and Education being Equal till they come to be Men, then their Spirits
+are ſpoilled by ſo great inequality afterwards.</p>
+            <p>Now theſe Younger Brothers having but an 1000. or 500. <hi>Acres</hi> of Ground in a Forraigne
+Plantation, with a 100. <hi>lib. ſtarling</hi> to ſtock it, which the moſt ordinary of their
+Portions might reach to, might, by a very mo<g ref="char:EOLhyphen"/>derate Induſtry, live as comfortably as their Elder
+Brothers at home, and pro<g ref="char:EOLhyphen"/>vide their Children better; and each of thoſe would not want enough of
+the Commonality to go alongſt with them, upon the Encouragements they might receive to be their
+Servants.</p>
+            <p>And the Voyage to a Plantation here propoſed, is become ſo eaſie, and the Intercourſe
+ſo frequent, that a Correſpondence would be as ordinar as is be<g ref="char:EOLhyphen"/>twixt the <hi>South</hi> and
+<hi>North</hi> parts of this Nation: Yea, a great daall more than is uſual betwixt the
+<hi>Weſt</hi> and <hi>Northern-Iſlands,</hi> and the other more frequented parts of the
+Countrey.</p>
+            <p>It is alſo generally known, how hardly the Husbandmen here do live, and with how much Toil and
+Difficulty, they are able to pay their Rents, and have any comfortable Lively-hood; The Reaſon
+whereof is, That, eſpecially near the Sea-ſide, and moſt inhabited places, they are be far
+overthrong, and one might Manure what two or three have: For by ſeeking to have ſo much
+<hi>Corn-Land,</hi> they <hi>eat out the Subſtance of it,</hi> wearie themſelves, and wrongs
+their Land<g ref="char:EOLhyphen"/>lords; So that, if there were fewer of them, and each of them had more Land, and
+leſſe in Corn, and more upon Graſſe for Beſtial, they would have a greater eaſe, and
+their Maſters would be better paid; But they not knowing how to diſ<g ref="char:EOLhyphen"/>poſe of themſelves
+otherwiſe, makes them thus throng one upon another, and render one another miſerable.</p>
+            <p>Now there would be a notable Remedy for this in a Forraign Plantation, for a Husbandman that
+hath two or three <hi>thouſand Merks</hi> in Stock (as moſt of them have) might tranſport
+himſelf, his Wife, and his Family, and get a little Plan<g ref="char:EOLhyphen"/>tation
+<pb n="5" facs="tcp:48132:3"/>at ſo eaſie tearms, in a ſhort time ſo ſtocked, that he might live more
+Comfortably, plentifully, and at leſſe Labour than many of the Maſters do here,</p>
+            <p>It is alſo known, that ordinar Servants here, after they have ſerved 6. or 7. years in the
+pryme of their youth, can hardly, the moſt Thrifty of them (over what ſerves them in Cloaths)
+gather ſo much together, as when they Marry, and come to have Children, will be the beginning of
+any Comfortable Lively-hood: But there, after 4 years, they may be in a far better Condition, as
+ſhall hereafter be demonſtrated.</p>
+            <p>There needs no other, nor more evident proof for this, then the example of moſt of theſe,
+who, being taken at the fights of <hi>Dumbar,</hi> and <hi>Worceſter</hi> in the years 1650 and
+51, being ſent over as Servants to <hi>Barbadoes,</hi> and other places, after they ſer<g ref="char:EOLhyphen"/>ved out
+their time, have moſt of them purchaſed notable Plantations for them<g ref="char:EOLhyphen"/>ſelves, both in
+<hi>Barbadoes</hi> and <hi>Mary-land,</hi> and elſ-where, and live very plentifully, accounting
+themſelves happy in that providence that brought them there, and ex<g ref="char:EOLhyphen"/>treamly regrating the
+Condition of many of their friends at home, and wiſhing them ſharers of their
+proſperitie.</p>
+            <p>But ſome, who will readily acknowledge what hes been here ſaid, doe think it impracticable
+for our Countrey-men to have this advantage. Becauſe there is no forraigne plantation in
+<hi>America</hi> belongs to the Crown of <hi>Scotland,</hi> and all of ſuch, where we could
+ſettle, are a part of the <hi>Engliſh</hi> Dominions.</p>
+            <p>It ſhall not be contended, but it were well there were ſome belonging to <hi>Scotland,</hi>
+for that it is not proper to Contradict what might be eſteemed honor<g ref="char:EOLhyphen"/>able to this Crown. But
+thoſe, who Judge all the advantages above mentioned might not ariſe to us, from having an
+intereſt in a plantation under the protection of the Crown of <hi>England,</hi> are under great
+miſtakes; yea as things now ſtands, it is more advantageous to us, if it be Conſidered.</p>
+            <p n="1">1. That, tho it be under a different reſpect, Yet we are ſtill under the ſame
+Mo<g ref="char:EOLhyphen"/>narch, as if the Plantation belonged to the Crown of <hi>Scotland.</hi> 2. The protecti<g ref="char:EOLhyphen"/>on is
+much more ſure and conſiderable from <hi>England,</hi> whoſe intereſt oblidge them,
+becauſe of the great advantage yearly comes in to them from thence, to ſee to the Protection of
+the forraign plantations, and all of theſe lying upon the main Continent being contiguous, no
+encroatchment can be made upon part without endangering of the reſt: And for the capacitie of
+defence, there is no need of Compariſon; <hi>Scotland</hi> having no ſhips of warre upon the
+publick accompt, and it's pollicy not lying in that Method. If the ſcruple be, that any think
+there are things uneaſy in the Laws of <hi>England,</hi> that are better with us. There is thence
+no occaſion of being ſtraitned, for, as will after appear, the Plantation here pro<g ref="char:EOLhyphen"/>poſed, hes
+that Latitude in the Patent, that they are not tyed to the Laws of <hi>England</hi> ſo
+particularly, but they may let fall what they think inconvenient, and take of <hi>Ours</hi> what
+ſeems to contribute more to their advantage.</p>
+            <p>There would this viſible diſadvantage beſides fall out, if the Plantation were disjoyned
+from the <hi>Engliſh</hi> Dominions, that by the act of Navigation we would be debarred from
+trade with the other <hi>Engliſh</hi> Plantations, which would be a verie great prejudice. But no
+diſadvantage on the other part does come, for we can be allowed to carry over as many people as
+we pleaſe, with their Cloathing, and neceſſarys, which is the chief thing whereby advantage
+would come to <hi>Scotland,</hi> in the accomodating of people of ſeveral ſorts, as We
+obſerved before. And the goods which are of moſt Value, and moſt neceſſar there, are
+ſuch things
+<pb n="6" facs="tcp:48132:4"/>as our Countrey affoords moſt plentifully, ſuch as all ſorts of Wollen and
+Linnen-Cloath, and the like; ſo that there is occaſion for Export of our Commodities, and the
+trade of <hi>Scotland</hi> conſiſts much more in that, then in Import; there being not that
+occaſion here for Conſumption of forraigne Commodities, and the product of the Plantations
+there not being Suggar or any Store of Tobacco, is not fit to be imported in <hi>Scotland:</hi> So
+that the product of the Plantation com<g ref="char:EOLhyphen"/>ing to <hi>England,</hi> according to Law, if the money be
+from thence remitted to us for the transport of People and our Commodities, it will make a
+Circulation of Trade as advantageous for us; Yea, more then if returns come ſtraight home, which
+would not ſo ſoon affoord money in <hi>Scotland.</hi>
+            </p>
+            <p>It is true if trade were abſolutely as free 'twixt <hi>Scotland</hi> and there, as in
+<hi>England,</hi> it might be an encouragment to <hi>Scots</hi> Shipping and Sea-men. But for that,
+it may be anſwered, that Ships built in the Plantations (where there is great conveni<g ref="char:EOLhyphen"/>ency for
+building of Veſſels) will be free to come to <hi>Scotland,</hi> as well as any o<g ref="char:EOLhyphen"/>ther
+<hi>Engliſh</hi> Ships; and 2. part of the Sea-men being Inhabitants of the Plan<g ref="char:EOLhyphen"/>tation who by
+dwelling there are <hi>Denizons</hi> of <hi>England,</hi> ſatisfies the Law; So that, tho the
+Ship be not a <hi>Scots</hi> Ship, yet it may belong to <hi>Scots-men</hi> dwelling in the
+Collonie, and ſailled with Sea-men belonging thereto.</p>
+            <p>It is time now to ſhow how ſome of our Country-men, in order to ſo advan<g ref="char:EOLhyphen"/>tagious a
+Project, have already purchaſed an conſiderable Intereſt in a Plan<g ref="char:EOLhyphen"/>tation, which is juſtly
+eſteemed not Inferiour, if not beyond any place, upon the whole continent of <hi>America,</hi>
+belonging to the <hi>Engliſh</hi> Dominions, called <hi>Eaſt-New-Jarſey.</hi> The deduction
+of the right of it is thus,</p>
+            <p>The KING by Patent to the Duke of <hi>York,</hi> granted a great tract of Land ly<g ref="char:EOLhyphen"/>ing betwixt
+<hi>Virginia</hi> and <hi>New-England,</hi> It was formerly in the hand of the <hi>Dutch,</hi> and
+Conſiderably improved by them, and called <hi>New-Netherlands,</hi> And by treaty after the
+firſt <hi>Dutch</hi> Wars, Surrendred to the King that part of it, lying betwixt the 39 and 41
+Degree of <hi>Northern Latitude:</hi> Was by the <hi>Duke</hi> of <hi>York</hi> granted to
+<hi>John, Lord Barkly,</hi> and Sir <hi>George Cartwright.</hi> That part, which belonged to the
+Lord <hi>Barkley,</hi> being aſſigned to <hi>Edward Billings:</hi> Afterwards by a Deed of
+Partition betwixt the ſaid <hi>Edward Billings</hi> and Sir <hi>George Cartwright,</hi> The
+Weſt Part, lying upon <hi>Delaware River,</hi> was alloted to <hi>Edward Billings</hi> for his
+ſhare, and the Eaſt part, lying upon <hi>Hudſons River,</hi> neareſt to the Province of
+<hi>New York,</hi> was appointed to Sir <hi>George Cartwright</hi> for his ſhare. Which part, now
+called <hi>Eaſt-New-Jarſey,</hi> is from Sir <hi>George Cartwright</hi> conveyed to twelve
+Perſons in and about <hi>London,</hi> who have ſince conveyed an half to other twelve, ſo
+that as well the Right of Government as the Soyl, ſtandeth now in 24 Proprietors, in favours of
+ſome of whom, the <hi>Duke</hi> of <hi>York</hi> has been lately pleaſed to make a new grant of
+Confirmation, both of Soyl and Government to the 24 Proprietors, with the ſame Powers and
+Priviledges, he has in his Patent from the King, which are as large as any other Plantation hath,
+for the Words of the <hi>Dukes</hi> Patent are as followeth;</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letters_patent">
+                        <pb n="7" facs="tcp:48132:4"/>
+                        <head>The Patent from the KING, to <hi>JAMES</hi> Duke of York, <hi>&amp;c.</hi>
+                        </head>
+                        <opener>
+                           <signed>
+                              <hi>CHARLES</hi> the Second, By the <hi>Grace of GOD,</hi> King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France</hi>
+and <hi>Ireland,</hi> Defender of the Faith, &amp;c,</signed>
+                           <salute>To all Men to whom theſe Preſents
+ſhall come, Greeting,</salute>
+                        </opener>
+                        <p>Know ye that WE, for diverſe<hi> good Cauſes </hi>and<hi>Conſiderations, Us </hi>hereunto moving, have of<hi> Our ſpecial Grace, </hi>certain Know<g ref="char:EOLhyphen"/>ledge,
+and meer Motion,<hi> Given </hi>and<hi> Granted, </hi>and by theſe<hi> Preſents </hi>for<hi>Us, Our Heirs, </hi>and<hi> Succeſſours, </hi>Do<hi> give </hi>and<hi> grant </hi>unto<hi> Our
+deareſt Brother </hi>JAMES<hi> Duke of York, </hi>his<hi> Heirs and Aſſignes, All </hi>that
+part of the<hi> Maine Land of New-England, </hi>beginning at a certain place, called or known by
+the name of<hi> Saint Croix, </hi>next adjoyn<g ref="char:EOLhyphen"/>ing to<hi> New-Scotland </hi>in<hi> America, </hi>and
+from thence extending along the Coaſt, unto a certain place called<hi> Pemaquin, </hi>or<hi>Pemaquid, </hi>and ſo up the<hi> River </hi>thereof, to the far<g ref="char:EOLhyphen"/>theſt Head of the ſame as it
+tendeth<hi> Northward, </hi>and extendeth from the<hi> River Ken<g ref="char:EOLhyphen"/>bequin, </hi>and ſo upwards by
+the ſhorteſt courſe, to the<hi> River of Canada Northward; </hi>and all that<hi> Iſland</hi>or<hi> Iſlands </hi>commonly called by the ſeveral name or names of<hi> Mattawax</hi>or<hi> Long-Iſland, </hi>ſcituate and being towards the<hi> Weſt of Cape-cod, </hi>and
+the narrow<hi> Heg<g ref="char:EOLhyphen"/>ganſets, </hi>abutting upon the main Land between the two<hi> Rivers,</hi>there called or known by the ſeveral or names of<hi> Conectecute </hi>and<hi> Hudſons
+River, </hi>together alſo with the ſaid<hi> River </hi>called<hi> Hudſons River, </hi>and all
+the land from the<hi> Weſt-ſide of Co<g ref="char:EOLhyphen"/>nectecute River </hi>to the<hi> Eaſt-ſide of Delawar
+Bay; </hi>And alſo all thoſe ſeveral<hi> Iſlands, </hi>called or known by the name of<hi>Martins-Vineyard, </hi>and<hi> Hantuckes, </hi>alias,<hi> Hantuckett; </hi>together with all
+the<hi> Lands, Iſlands, Soyls, Rivers, Harbours, Mines, Mineralls, Quarreys, Woods, Marſhes,
+Waters, Lakes, Fiſhing, Haukings, Huntings, </hi>and<hi> Fowlings, </hi>and all other<hi>Royallities, Profites, Commodities, </hi>and<hi> Hereditaments </hi>to the ſaid ſeveral<hi>Iſlands, Lands </hi>and<hi> Premiſſes </hi>belonging and appertaining, with their and every of
+their<hi> Appurtenances; </hi>and all<hi> Our Eſtate, Right, Title, </hi>and<hi> Intereſt,
+Benefit </hi>and<hi> Advantage, Claime </hi>and<hi> Demand </hi>of, in, or to the ſaid<hi>Iſlands </hi>or<hi> Pre<g ref="char:EOLhyphen"/>miſſes, </hi>or any Part or Parcel thereof, and the<hi> Reverſion</hi>and<hi> Reverſions, Remainder </hi>and<hi> Remainders, </hi>together with the Yearly and
+other<hi> Rents, Revenues </hi>and<hi> Profits </hi>of the<hi> Premiſſes, </hi>and every Part
+and Parcel thereof; To Have and to Hold all and ſin<g ref="char:EOLhyphen"/>gular the<hi> Lands and Premiſſes,</hi>with their, and every of their<hi> Appurtenances </hi>thereby<hi> given </hi>and<hi> granted,</hi>or herein before mentioned to be<hi> given </hi>or<hi> granted, </hi>unto<hi> Our</hi>ſaid<hi> Deareſt Brother, JAMES Duke of York, </hi>his<hi> Heirs </hi>and<hi> Aſſignes</hi>for Ever. To be Holden of<hi> Us, Our Heirs, </hi>and<hi> Succeſſours, </hi>as of<hi> Our
+Mannour of Eaſt-Greenwich </hi>in the County of<hi> Kent, </hi>in free and common<hi> Soccage,</hi>and not in<hi> Capite, </hi>or by<hi> Knights Service, </hi>Yeilding and Rendering. And the
+ſame<hi> JAMES Duke of York, </hi>for himſelf, his<hi> Heirs </hi>and<hi> Aſſignes, DOTH
+Covenant and Promiſe to yield and render unto Us, Our Heirs, and Succeſſours, of, and for the
+ſame yearly, and every year, Fourty </hi>Beaver-skins,<hi> when the ſame ſhall be demanded,
+or within ninety dayes after ſuch Demand made. </hi>And WE do further of<hi> Our</hi>ſpecial<hi> Grace, </hi>certain<hi> Knowledge, </hi>and meer<hi> Motion, </hi>for <g ref="char:V">Ʋ</g>S, Our
+Heirs, and Succeſſours,<hi> give </hi>and<hi> grant </hi>unto Our ſaid<hi> Deareſt
+Brother, JAMES Duke of York, </hi>his Heirs, De<g ref="char:EOLhyphen"/>putes, Agents, Commiſſioners and Aſſignies,
+by theſe Preſents full and abſolute Power and Authority, to Correct, Puniſh, Pardon, Govern
+and Rule all ſuch the<hi> Subjects </hi>of <g ref="char:V">Ʋ</g>S,<hi> Our Heirs </hi>and<hi> Succeſſours,</hi>or any other<hi> Perſon </hi>or<hi> Perſons, </hi>as ſhall to time adventure themſelves
+into any the Parts or Places aforeſaid; Or that ſhall or do
+<pb n="8" facs="tcp:48132:5"/>at any time hereafter Inhabit within the ſame, according to ſuch<hi> Laws,
+Orders, Or<g ref="char:EOLhyphen"/>dinances, Directions, </hi>and<hi> Inſtructions, </hi>as by Our ſaid<hi> Deareſt
+Brother, </hi>or his<hi> Aſſignes </hi>ſhall be<hi> Eſtabliſhed, </hi>and in defect
+thereof in caſes of neceſſitie according to the good<hi> Directions </hi>of his<hi> Deputie
+Commiſſioners, Officers, </hi>or<hi> Aſſignes </hi>reſpectively, as well in caſes and
+matters<hi> Capital, </hi>and<hi> Criminal, </hi>as<hi> Civil, </hi>and others; ſo always as the
+ſaid<hi> Satutes, Ordinances, </hi>and<hi> Proceedings </hi>be not contrary to, but as near as
+may be agreeable to the<hi> Laws, Statutes, </hi>and<hi> Government </hi>of this<hi> Our Realm</hi>of<hi> England; AND Saving </hi>and<hi> Reſerving </hi>to<hi> Us, Our Heirs, </hi>and<hi>Succeſ<g ref="char:EOLhyphen"/>ſors, </hi>the<hi> Receiving, Hearing, </hi>and<hi> Determining </hi>the<hi> Appeale,</hi>and<hi> Appeales </hi>of any<hi> Perſon or Perſons, </hi>of, in, or belonging to the<hi>Territories </hi>or<hi> Iſlands </hi>aforeſaid, or touching any<hi> Judgement </hi>or<hi>Sentence </hi>to be there made, or given:<hi> And further, </hi>that it ſhal and may be Lawful to
+and for our ſaid<hi> Deareſt Brother, </hi>his<hi> Heirs, </hi>and<hi> Aſ<g ref="char:EOLhyphen"/>ſignes </hi>by
+theſe<hi> Preſents, </hi>from<hi> time </hi>to<hi> time, </hi>to<hi> Nominate, Make,
+Conſtitute, Ordain, </hi>and<hi> Confirm </hi>ſuch<hi> Laws, </hi>as aforeſaid, by ſuch<hi>Name, </hi>or<hi> Names, Stile </hi>or<hi> Stiles, </hi>as to<hi> him </hi>or<hi> them </hi>ſhal
+ſeem good: and likewiſe to<hi> Revoke, Diſcharge, Change, </hi>and<hi> Alter, </hi>as well
+all and<hi> ſingular Governours; Officers, </hi>and<hi> Miniſters, </hi>which<hi> here<g ref="char:EOLhyphen"/>after
+ſhall be by him or them thought fit and needful to be in, </hi>or uſed within the
+aforeſaid<hi> Iſlands </hi>and<hi> Parts: </hi>and alſo to<hi> Make, Ordain; </hi>and<hi>Eſtabliſh </hi>all manner of<hi> Laws, Orders, Directions, Inſtructions, Formes, </hi>and<hi>Ceremonies </hi>of<hi> Government </hi>and<hi> Magiſtracy </hi>fit and neceſſarie for,
+and<hi> concerning </hi>the<hi> Government </hi>of<hi> Territories, </hi>and<hi> Iſlands</hi>aforeſaid. So always as the ſame be not contrary to the<hi> Laws </hi>and Statutes of
+this<hi> Our Realm </hi>of<hi> England, </hi>but as neer as may be<hi> conformable thereunto,</hi>and the ſame at all<hi> times hereafter </hi>to put in<hi> Execution </hi>or<hi> Abrogate,
+Revoke, </hi>or<hi> Change, </hi>not only within the<hi> precincts </hi>of the ſaid<hi>Territories </hi>or<hi> Iſlands, </hi>but alſo upon the<hi> Seas </hi>in<hi> going </hi>and<hi>coming </hi>to and from the ſame, as he or they in their<hi> good Diſcretion </hi>ſhal think
+fitteſt for the good of the<hi> Adventurers </hi>and<hi> Inhabitants. AND We do further </hi>of
+Our ſpecial Grace,<hi> certain Knowledge, </hi>and<hi> meer Motion, Grant, Ordain, </hi>and<hi>Declare, </hi>that ſuch<hi> Governours, Deputies, Officers, </hi>and<hi> Miniſters, </hi>as from
+time, to time, ſhall be<hi> Authorized, </hi>and appointed in<hi> manner </hi>and<hi> form</hi>aforeſaid, ſhal and may have full power, and<hi> Authority </hi>within the<hi> Territories</hi>aforeſaid, to uſe and exerciſe<hi> Martial Law, </hi>in caſes of<hi> Rebellion,
+Inſurrections, </hi>and<hi> Mutiny, </hi>in as large and ample a manner as our<hi> Lieutenents</hi>in our<hi> Countries </hi>within Our<hi> Realm </hi>of<hi> England, </hi>have, or ought to
+have, by force of their<hi> Commiſſions </hi>of<hi> Lieutenancy, </hi>or any<hi> Law,</hi>or<hi> Statute, </hi>of this our<hi> Realm. AND We do further, </hi>by theſe preſents for
+us our<hi> Heirs </hi>and<hi> Succeſſours, </hi>grant unto our<hi> Deareſt Brother JAMES
+Duke of York, </hi>his<hi> Heirs </hi>and<hi> Aſſignes, </hi>that it ſhall and may be Lawful
+to and for the ſaid<hi> James Duke of York, </hi>his<hi> Heirs </hi>and<hi> Aſſignes, </hi>in
+his or their<hi> Diſcretions, </hi>from time to time, to admit ſuch and ſo many perſon or
+perſons, to<hi> Trade </hi>and<hi> Traffique </hi>into and within the<hi> Territories</hi>and<hi> Iſlands </hi>aforeſaid, and to every and any part and parcel thereof, and to have,
+poſſeſs, and enjoy any<hi> Lands, </hi>and<hi> Hereditaments </hi>in the part and places
+aforeſaid, as they ſhall think fit, according to the<hi> Laws, Orders, Conſtitutions,</hi>and<hi> Ordinances, </hi>by our ſaid<hi> Brother, </hi>his<hi> Heirs, Deputies,
+Commiſſioners, </hi>and<hi> Aſſignes, </hi>from time to time, to be made and
+eſtabliſhed, by vertue of, and according to the true intent and meaning of theſe preſents,
+and under ſuch<hi> Conditions, Reſervations, </hi>and<hi> Agreements, </hi>as our ſaid<hi>Deareſt Brother, </hi>his<hi> Heirs </hi>and<hi> Aſſignes, </hi>ſhall ſet down<hi> Order,
+Direct,</hi>
+                           <pb n="9" facs="tcp:48132:5"/>and<hi> Appoint; </hi>and not otherwiſe, as aforeſaid.<hi> AND We do
+further, </hi>of Our ſpecial Grace, certain Knowledge, and meer motion, for<hi> US, </hi>Our<hi>Heirs, </hi>and<hi> Succeſſors, Give </hi>and<hi> Grant, </hi>unto Our ſaid<hi> Deareſt
+Brother, </hi>his<hi> Heirs </hi>and<hi> Aſſignes, </hi>by theſe preſents, that it ſhall
+and may be<hi> Lawful </hi>to, and for<hi> him, them, </hi>or any of<hi> them, </hi>at all and
+every<hi> time </hi>or<hi> times </hi>hereafter, out of any of Our<hi> Realms, </hi>or<hi>Dominions </hi>whatſoever, to take, load, carry, and tranſport, in, and unto their<hi> Voyages,</hi>for and towards the<hi> Plantations, </hi>of our<hi> Territories </hi>and<hi> Iſlands</hi>aforeſaid, all ſuch, and ſo many of our<hi> loving Subjects, </hi>or any other<hi>Strangers, </hi>being not<hi> Prohibited </hi>or under<hi> reſtraint, </hi>that will become
+our<hi> loving ſubjects, </hi>and live under our<hi> Allegiance, </hi>and ſhall willingly
+accompany them in the ſaid<hi> Voyages, </hi>together with all ſuch<hi> Cloathing, Implements,
+Fruniture, </hi>or other things uſually<hi> Tranſported, </hi>and not<hi> Prohibited, </hi>as
+ſhal be neceſſary for the<hi> Inhabi<g ref="char:EOLhyphen"/>tants </hi>of the ſaid<hi> Iſlands, </hi>and<hi>Territories, </hi>and for the uſe and defence thereof, and<hi> Mannaging, </hi>and carrying on
+the<hi> Trade, </hi>with the<hi> People </hi>there.<hi> Yeelding and paying </hi>unto <g ref="char:V">Ʋ</g>s,
+our<hi> Heirs </hi>and<hi> Succeſſors, </hi>the<hi> Cuſtomes </hi>and<hi> Duties</hi>thereof, due and pay<g ref="char:EOLhyphen"/>able, according to<hi> Laws </hi>and<hi> Cuſtomes </hi>of this Our<hi>Realm. </hi>And We do alſo for<hi> Us, </hi>our<hi> Heirs </hi>and<hi> Succeſſors, </hi>grant
+unto Our ſaid<hi> Deareſt Brother JAMES Duke of York, </hi>his<hi> Heirs </hi>and<hi>Aſſignes, </hi>and to all and every ſuch<hi> Governour </hi>or<hi> Governours, </hi>or<hi>Deputies, </hi>their<hi> Officers, </hi>or<hi> Miniſters, </hi>as by our ſaid<hi> Brother,</hi>his<hi> Heirs </hi>or<hi> Aſſig<g ref="char:EOLhyphen"/>nes </hi>ſhall be appointed, to have<hi> Power</hi>and<hi> Authority </hi>of<hi> Government, </hi>and<hi> Command </hi>in, and over the<hi>Inhabitants </hi>of the ſaid<hi> Territories, </hi>and<hi> Iſlands, </hi>that they and every of
+them, ſhal, and may lawfully, from time to time, and at all times for ever hereafter, For their
+ſeveral<hi> Defence </hi>and<hi> ſafty, Encounter, Repulſe, Expel, </hi>and<hi> Reſiſt,</hi>by force of<hi> Armes, </hi>as well by<hi> Sea, </hi>as by<hi> Land, </hi>and all<hi> wayes,</hi>and<hi> means </hi>whatſoever, all ſuch<hi> Perſon </hi>and<hi> Perſons, </hi>as
+without the ſpecial<hi> Licence </hi>of our<hi> Deareſt Brother, </hi>his<hi> Heirs</hi>and<hi> Aſſignes, </hi>ſhall attempt to<hi> Inhabite </hi>within the ſeveral<hi>Precincts, </hi>and<hi> Limits, </hi>of our ſaid<hi> Territories </hi>and<hi> Iſlands; </hi>and
+alſo all, and every ſuch<hi> Perſon, </hi>and<hi> Perſons </hi>whatſoever, as
+ſhall<hi> Enterprize, </hi>and<hi> Attempt, </hi>at any time hereafter, the<hi> Di<g ref="char:EOLhyphen"/>ſtruction,
+Invaſion, Detriment, </hi>or<hi> Annoyance, to the parts, places, or Iſlands </hi>aforeſaid,
+or any parts thereof.<hi> And Laſtly, </hi>Our will and pleaſure is, And We do here<g ref="char:EOLhyphen"/>by declare,
+and grant, that theſe our<hi> Letters Patents, </hi>or the<hi> Inrollment </hi>thereof, ſhall
+be good and effectual, in the Law, to all intents, and purpoſes whatſoever, notwithſtand<g ref="char:EOLhyphen"/>ing
+the not well, and true Receiting, or mentioning of the premiſſes, or any part thereof, or the
+Limits, or Bounds thereof: or of any form, or other Letters Patents, or Grants what<g ref="char:EOLhyphen"/>ſoever made,
+or Granted of the premiſſes, or of any part thereof, or the Limits or bounds thereof, or of any
+former, or other Letters Patents, or Grants, whatſoever made, or granted, of the premiſſes,
+or of any part thereof, by<hi> US, </hi>or any of Our Progenitors, unto any Perſon, or Perſons,
+whatſoever bodies, Politique, or Corporate, any other Law or other reſtraint, in certainty, or
+imperfection, whatſoever, to the contrary in any wiſe notwithſtanding, Al<g ref="char:EOLhyphen"/>though, expreſs
+mention of the true yearly Value, or certainty of the premiſſes, or any of them, or of any
+other Gifts or Grants by <g ref="char:V">Ʋ</g>s, or by any of our Progenitors heretofore made to the ſaid<hi>James Duke of York, </hi>in theſe preſents, is not made, or any Statute, Act, Ordinance,
+Proviſion, Proclamation, or Reſtriction heretofore had, made, enacted, or provided, or any
+other matter, cauſe, or thing whatſoever to the contrary, in any wiſe notwithſtanding:</p>
+                        <closer>
+                           <dateline>
+                              <hi>In Witneſs</hi> whereof, We cauſed theſe Letters, to be made Patents, Witneſs
+Our Self,
+at <hi>Weſtminſter,</hi>
+                              <date>the 29. day of <hi>June,</hi> in the 16 Year of Our Reign.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:48132:6"/>The SCOTS Proprietors are, <hi>James,</hi> Earl of <hi>Pearth, John
+Drummond</hi> of <hi>Lundy,</hi> Lord Theaſurer Depute, Sir <hi>George Mackenzie,</hi> Lord
+Regiſter, <hi>Robert Gordon</hi> of <hi>Cluny, Arent Sonmans (a Dutch-man,</hi> but intereſted
+with the SCOTS Proprietors) <hi>Robert Barkley</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>nie, Robert Burnet</hi> of
+<hi>Lethenty, Gavine Laurie;</hi> Seven parts of the 24. belongs to theſe Perſons, which, by
+the moſt modeſt Cal<g ref="char:EOLhyphen"/>culation, is thought, will be near <hi>Five hundred thouſand
+Acres.</hi>
+            </p>
+            <p>This Province or Collony lyes betwixt 39 and 41 Degrees of Latitude, being about 12 Degrees more
+to the <hi>South,</hi> then the <hi>City of London.</hi> It is in the ſame Climate with the
+Kingdom of <hi>Naples,</hi> and <hi>Montpelier</hi> in <hi>France.</hi> The Summer is hotter, and
+longer then in <hi>England,</hi> and the Winter colder and ſhorter, the days about an hour longer
+in Winter, and as much ſhorter in Summer. Is bounded <hi>South-Eaſt</hi> with the Maine Sea,
+<hi>Eaſt</hi> by that vaſt Navigable Stream, called <hi>Hudſons</hi> River, which divides
+this from the Province of <hi>Now-York, Weſt</hi> by a Line of Diviſion, which ſeparates this
+Province from <hi>Weſt-Jarſey,</hi> and <hi>North</hi> upon the <hi>Main Land.</hi> And Extends
+it ſelf in length upon the Sea Coaſt and alongſt <hi>Hudſons</hi> River, one hundred
+<hi>Engliſh</hi> Mylls and upward.</p>
+            <p>The Scituation of this Countrey is juſt, as it were, in the Center of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>
+Plantations in <hi>America,</hi> betwixt the South parts of <hi>Carolina,</hi> which is over hot;
+and the North parts of <hi>Pemaquitte,</hi> next New <hi>Scotland,</hi> which are coldeſt; ſo
+that its Conveniency of ſcituation, temperature of the Aire, and fertilitie of the ſoyl is
+ſuch, that there is no leſs then ſeven towns conſiderable already, <hi>(viz.) Shreutsburry,
+Midle<g ref="char:EOLhyphen"/>town, Berghen, New-vvark, Elizabeth-town, Woobridge,</hi> and <hi>Piſcataway,</hi> which
+are well inhabited, by a ſober and induſtrious People, who have neceſſary Provi<g ref="char:EOLhyphen"/>ſions for
+themſelves, and families, and for the comforable entertainment of Travellers, and Strangers.</p>
+            <p>And the Quittrents, or Fewes (as they are here called) of theſe Towns and other Plantations,
+already in the Countrey, yeelds to the 24 Proprietors above 500. <hi>lib.</hi> ſtarling, yearly
+Revenue, and the Air of this Collony, is experimentally found generally to agree well with
+<hi>Engliſh</hi> Conſtitutions, and Conſequently with Ours.</p>
+            <p>For Navigation, it hath theſe advantages, not only to be ſcituate along the Navigable parts
+of <hi>Hudſons</hi> River, but lyes alſo fiftie Milles along the Maine Sea<g ref="char:punc">▪</g> and near the
+Mideſt of this Province is that notted Bay for Ships within <hi>Sandy-Hook,</hi> very well known,
+not to be inferriour to any Harbour in <hi>America,</hi> where Ships not only harbour in greateſt
+ſtorms, but there Ryde ſafe with all Winds, and Sail in and out thence as well in
+<hi>Winter</hi> as <hi>Summer.</hi> For Fiſhery, the Sea-banks are very well Stored with variety
+of Fiſhes, not only ſuch as are profitable for Ex<g ref="char:EOLhyphen"/>portation, but ſuch as are fit for Food
+there; There are <hi>Whales, Coad-fiſh, Col.</hi> and <hi>Hake-fiſh,</hi> and <hi>Large
+Mackeril,</hi> and alſo, many other ſorts of Smal and Flate-fiſh; The Bay, alſo, and
+<hi>Hudſons River,</hi> are plentifully ſtored with <hi>Strugeon,</hi> and other
+<hi>Scal-fiſh, Eills,</hi> and <hi>Shel-fiſh,</hi> as <hi>Oyſters,</hi> in abundance.</p>
+            <p>This Countrey is alſo plentifully ſupplied with Lively-ſprings, <hi>Rivolets,
+Inland-Rivers,</hi> and <hi>Creeks,</hi> which fall into the Sea, and <hi>Hadſons-River,</hi> in
+which alſo there is varietie of Freſh-fiſh, and water Fowl.</p>
+            <p>There are little hills from <hi>Rariton-River,</hi> which is about the middle of this Pro<g ref="char:EOLhyphen"/>vince,
+that go to the verie <hi>North-Weſt-bounds</hi> of it, in which are abundance of good Mill-Stons
+to be had, and there is many, both <hi>Corne,</hi> and Saw-milnes ſet, and ſet<g ref="char:EOLhyphen"/>ting
+<pb n="11" facs="tcp:48132:6"/>up already, alſo, on the other Side of theſe Mountains, there is brave
+freſh <hi>Rivolets,</hi> fit for ſetting of <hi>In-Land-Towns,</hi> and a great deal of
+Meadow-ground upon the banks thereof, So that there is abundance of Hay to be had for Fodering of
+Catle in the Winter time, and theſe Meadows ſhows the Countrey is not altoge<g ref="char:EOLhyphen"/>ther covered with
+timber.</p>
+            <p>Its true, the firſt difficulty, meets people in Planting there, is the cutting down Wood (Tho
+having ſome Meadow intermixt already well covered with Hay, is a great eaſe) yet the trouble is
+compenſed by the advantage, which the timber be<g ref="char:EOLhyphen"/>ing cut down, yeelds, being good Oake, fit for
+Shipping, and Maſts; and alſo, Cheſnute, Walnut, Poplar, Cedar, Aſh, Firr; And alſo, by
+the fertility of the Soyl, being cleared, which yeelds a vaſt increaſe, not only of
+<hi>Indian</hi> Corn, which is a very wholſome Food, but of <hi>Engliſh</hi> grain, as Wheat,
+and Barley, whereof it uſually yeelds betwixt the 20. and 30th. fold, and with fare leſs labour
+(the Timber being once removed) then in <hi>Britain.</hi> And to ſhew the labour of cutting down
+the Trees, and clearing the ground, is not ſo great as ſome may Imagine, It is known by
+experience, that two men ariving there in <hi>September,</hi> or <hi>October,</hi> may clear as
+much ground, as uſually brings by Harveſt following twenty Quarters, that is about 40 <hi>Scots
+Bolls</hi> of grain.</p>
+            <p>This Countrey alſo, produceth good Flax, and Hemp, which they now ſpine, and Manufacture
+into Linnen Cloath, and the very <hi>Barrans</hi> there (as they are called) are not like moſt in
+<hi>Brittain,</hi> but produceth Graſs fit for Grazing Cattle in Summer time; There is alſo
+upon Ground (already cleared) ſtore of good <hi>Engliſh Claver-Graſs</hi> growing, the
+Countrey is well ſtored with wild Deir, Connies, and wild Fowl of ſeverall ſorts; As Turkeys,
+Pidgeons, Partridges, Plevers, Quaills, wild Swans, and Greeſe, Ducks, in great plenty; It
+produceth variety of good and delicious Fruits, as Grapes, Plumes, Mulberries, and alſo;
+Appricocks, Peaches, Pears, Apples, Quinches, Water-Millons, which are in <hi>England</hi> planted
+in Orchards, and Gardens; but grew there with fare leſs labour, and many more Fruits, which come
+not to perfection in <hi>England,</hi> are the more natural pro<g ref="char:EOLhyphen"/>duct of this Countrey. It is
+thought Olives would grow well there, and being ſtore of Mulberrie-Trees, Silk-worms would do
+well there; for they were tryed in <hi>Virginia,</hi> and proved very well, if the lazineſs of
+the People, and there being wholly ſet upon Tobacco, and the Intereſt of Merchants, who were
+afraid it might ſpoil there Silk-Trade from the <hi>Straits,</hi> had not hindered.</p>
+            <p>To ſhew how Fruit-Trees do advance in that Countrey, it is credibly reported, that about
+<hi>Burlingtown,</hi> in <hi>Weſt-Jarſey,</hi> which is more <hi>Northernly</hi> then the
+greateſt part of this Province, from an Apple-tree-Seed in four years, (without grafting) there
+ſprung a tree, that in the fourth year bore ſuch a quaintitie of Apples, as yeelded a barrell
+of Syder.</p>
+            <p>There is there alſo, great ſtore of Horſes, Cowes, Hoges, and ſome Sheep, which may be
+bought at reaſonable pryces with <hi>Engliſh</hi> money, or <hi>Engliſh</hi> Com<g ref="char:EOLhyphen"/>modities, or
+mans labour; where goods and mony are wanting.</p>
+            <p>For Minerals, It is thought there are not wanting of ſeveral ſorts, For there is an Iron
+work already ſet up, where there is good Iron made; And alſo, there is diſcovered already
+abundance of Black-Load.</p>
+            <p>It is exceeding well furniſhed with ſafe, convenint Harbours, for Shipping, which is of
+great Advantage, and afords already for exportation, great plenty of Horſes, and alſo Beef,
+Pork, Pipſtaves, Bread, Flower, White, Barly, Rye,
+<pb n="12" facs="tcp:48132:7"/>
+               <hi>Indian</hi> Corn, Butter, and Cheeſe, which they export for <hi>Barbadoes,
+Jamaica, Mevis,</hi> and other adjacent <hi>Iſlands;</hi> As alſo to <hi>Portugal, Spaine,</hi>
+and the <hi>Canarys,</hi> their <hi>Whale-Oyl,</hi> and <hi>Whale-Fines, Beaver, Mink, Racon,</hi>
+and <hi>Martine-skins</hi> (which this Countrey produces) they tranſport for
+<hi>England.</hi>
+            </p>
+            <p>The <hi>Indian</hi> Natives in this Countrey are but few, Comparative to the Neigh<g ref="char:EOLhyphen"/>bouring
+Collony, And theſe that are there, are ſo far from being formidable, and in<g ref="char:EOLhyphen"/>jurious to the
+Planters, and Inhabitants, that they are really ſerviceable, and advan<g ref="char:EOLhyphen"/>tagious to them, not only
+in hunting, and taking the Deer, and all other wild Crea<g ref="char:EOLhyphen"/>tures, and catching of Fiſh, and Fowl
+fit for food, in their ſeaſons; but in the killing and deſtroying of Bears, Wolves, Foxes,
+and other Vermine; whoſe skins and furrs they bring the <hi>Engliſh,</hi> and ſell at leſs
+pryce, then the value of time that people muſt ſpend to take them. Like as, that this Collony
+may be founded in Juſtice, and without any thing of Oppreſſion, as all that is already
+Planted, is truely Purchaſſed from the <hi>Indians,</hi> ſo there is a great deal more of the
+Province clear<g ref="char:EOLhyphen"/>ed by their conſent, and all is intended by paction with them to be obtained, ſo
+that whoever Purchaſe, or Plant under the Proprietors, ſhal be fred of that incum<g ref="char:EOLhyphen"/>brance; and
+if there were any hazard from the <hi>Indians,</hi> as really there is none, yet this Province
+could hardly be in any danger, In reſpect that to the <hi>North,</hi> upon the
+<hi>Main-Land,</hi> from whence the hazard, if any muſt come, the Province of <hi>New-York</hi>
+comes betwixt it and them, and 20. <hi>miles</hi> and more, above upon <hi>Hudſons</hi> River,
+there is a Fort called <hi>New-Albany.</hi>
+            </p>
+            <p>There were Conſtitutions of Government made by the <hi>Lord Barkley,</hi> and Sir <hi>George
+Cartwright,</hi> in which ſuch proviſion was made, both for Liberty of Reli<g ref="char:EOLhyphen"/>gion, and
+Propertie, that the Province hath been conſiderably Peopled, and many reſorted there from the
+Neighbouring Collonies, ſo that the Planters are able al<g ref="char:EOLhyphen"/>ready to Muſter 500. well armed
+Men.</p>
+            <p>There are already 3. of the 24. Proprietors, gone upon the place, and 2. goes this Summer from
+<hi>Ireland,</hi> theſe already arryved, have been cheerfully received by the Inhabitants, and
+ſubmitted to, the Houſes belonging to the Proprietors, put in their poſſeſſion, and the
+publick Records delivered them, and have received addreſs from the Inhabitants, wherein they
+promiſe to ſtand to, and defend the Proprietors, with their Lives and Fortunes: One of theſe
+Proprietors Bears the Character of <hi>Depute Governour,</hi> and another of <hi>Surveyor
+General,</hi> and <hi>Receiver</hi> of the <hi>Quittrents.</hi>
+            </p>
+            <p>There is Order given that in the ſeveral moſt convenient places, <hi>Ten thouſand Acres be
+ſet out to each of the</hi> 24. <hi>Proprietors to them to ſell,</hi> ſet out, or diſpoſe
+of, as they pleaſe; and when that ſhall be any ways Peopled or brought in, then the Proprietors
+will either jointly ſell out the reſt, or make a new Divident, as they find moſt convenient,
+for it is probably believed, according to the moſt equal Coje<g ref="char:EOLhyphen"/>cture, that every 24. part will
+contain 80000. <hi>Acres.</hi>
+            </p>
+            <p>The Proprietors have framed a new Schem of Government, which is not yet fully concluded one, but
+is intended rather to be an enlarging, than an abbrevia<g ref="char:EOLhyphen"/>ting of the former, and making it more
+eaſie, and advantagious for the Inhabitants, the chief parts of it are;</p>
+            <p>That the 24. Proprietors ſhall chuſe a Governour, 16. of them has a Conclu<g ref="char:EOLhyphen"/>ſive Vote in
+it, after the death of him now choſen, he ſhall continue but for 3. years, and be lyable to the
+Cenſure of the Proprietors, and great Counſel, and puniſhable if he tranſgreſs. There is
+a great Counſel to meet once a year (and
+<pb n="13" facs="tcp:48132:7"/>ſit, if they ſee meet, for 3. Moneths) conſiſting of the 24.
+Proprietors, and 48. choſen by the Planters, and Inhabitants, two thirds Conclude, the one half
+of the Proprietors aſſenting; and no money can be raiſed, or Law made, to touch any mans
+Libertie or Property, but by this Counſel. There is a Common Coun<g ref="char:EOLhyphen"/>ſel to ſit conſtantly,
+Conſiſting of the 24. Proprietors, or their Proxies, and nine choſen out of the
+Repreſentatives of the Planters, in all 33. to be divided into three Commities; 11. to each, one
+for the Publick Policie: One for the Treaſurie and Trade, and one for Plantations.</p>
+            <p>To aviod Lording over one another, No Man can purchaſe above the 24th. part of the Countrey;
+And on the other hand, leaſt any ſhould ſquander away their Intereſt, and yet retain the
+Character of the Government, that belongs to Property, and thence be capable to betray it, as not
+being bound by Intereſt, there muſt be a ſuteable quantity retained, otherwiſe the Title in
+the Govern<g ref="char:EOLhyphen"/>ment extinguiſhes in him, and paſſes to another, to be Elected by the
+Pro<g ref="char:EOLhyphen"/>prietors, that <hi>Dominion</hi> may follow <hi>Property,</hi> and the inconveniency of a
+<hi>beggarly Nobility,</hi> and <hi>Gentry</hi> may be avoided.</p>
+            <p>No man can be judged in any cauſe, either Civil, or Criminal, but by a Jury of his Peers, and
+to avoyid in that all Caballin, the names of all the County or or Neighbour-hood, capable to be
+Choſen, are to be write in Little pieces of Parchement, and the number of the Jury to be taken
+out by a Child under 10. years of age, And the proprietors as well as others are to be Lyable to
+the like tryall, and not under any Exception.</p>
+            <p>Libertie in matters of Religion is eſtabliſhed in the fulleſt manner. To be a Planter or
+Inhabitant, nothing is more required but the acknowledging of one <hi>Almighty GOD,</hi> and to
+have a Share in the Government, A ſimple profeſſion of faith of Jeſus Chriſt, without
+deſcending into any other of the differences among Chriſtians, only that Religion may not be a
+cloak for diſturbance, whoever comes in<g ref="char:EOLhyphen"/>to the Magiſtrature, muſt declare, they hold not
+themſelves in Conſcience obliged, for Religions ſake, to make an alteration, or to endeavour
+to turn out their partners, in the Government, Becauſe they differ in Opinion from them, and this
+is no more then to follow that great Rule, <hi>To do as they would be done by.</hi>
+            </p>
+            <p>Theſe are the fundamentals, which are not alterable by any act of the great Coun<g ref="char:EOLhyphen"/>cill, as
+other things, by theſe voices of 2. thirds, but only by an univerſal a<g ref="char:EOLhyphen"/>greement; ſo it is
+hoped, that this hint will ſatisfie all ſober and underſtanding people, what Encouragement
+ſuch a Government may give.</p>
+            <p>For the matter of Purchaſe, It may be by purchaſeing a whole proprietie, or a half, in which
+ſeveral perſons may joyn, and tho the number be already filled up, yet if any perſons here,
+offer to the proprietors, of whoſe Integritie and Induſtrie they are ſatisfied, they might
+uſe means to make room for them, and albeit the pryces be much advanced within this year, yet, it
+may be made appear, that a purchaſe of a Propriety may be had here more eaſily, then any of the
+Neighbouring Plantations.</p>
+            <p>Theſe that are not diſpoſed, or have not Stock for ſuch a purchaſe, may buy a certain
+number of <hi>Acres</hi> from any of the Proprietors, as a part of the 10000. to be ſet out to
+each of them this Summer; and, tho the price of that may ſeem higher, then what is uſually
+talked of in ſome other Plantations, yet, conſidering he choice of the Land, and the advantages
+of Scituation for Trade, with the
+<pb n="14" facs="tcp:48132:8"/>conſideration of its being ſo well Peopled already, which is the chief thing
+makes Land valuable, (for in a Wilderneſs a great dail of Land ſignifies little) It will be
+found a good Bargain, and a very modeſt price, to give a 100. <hi>lib. ſtarling</hi> for 500.
+<hi>Acres,</hi> at which Price it may be afforded any time before the firſt of <hi>October</hi>
+next, and not afterwards.</p>
+            <p>The Proprietors have alſo Ordered to be ſet out upon a place, called <hi>Ambo point,</hi>
+(which has a good and convenient Harbour, and a pleaſant and wholeſome place,) 1500.
+<hi>Acres</hi> for to build a Town, this is to be divided into 150. Lots, and every Lot is to
+conſiſt of ten <hi>Acres,</hi> and is to be ſold at 20. <hi>lib. ſtar<g ref="char:EOLhyphen"/>ling,</hi> provyding
+it be done before the firſt of <hi>July</hi> next, before the Ship go from SCOTLAND; For, after
+that time we cannot promiſe to accommodate any, leaſt all be taken up, for many are offering
+upon the place; and the Proprie<g ref="char:EOLhyphen"/>tors intend to have a each a houſe built there, upon their own
+Account this Sum<g ref="char:EOLhyphen"/>mer; now this will be found a very good Bargain, conſidering there is 300 of the
+1500. <hi>Meadow</hi> ground, ſo that each lot is like to have 2. Acres of <hi>Meadow</hi> ground
+belonging to it, which is of great value.</p>
+            <p>For <hi>Husband-men</hi> that hes a Stock, able to transport themſelves and Families, with a
+few Servants, and to have but a 1000. pound Scots, or a 1000. Merks more, to carry over in
+Commodities, they ſhall have upon their arrivall 100 Acres of good ground, meaſured out to
+them, or above, not exceeding 500. Acres; And for their incouragement, ſhall for the firſt 7.
+years pay nothing, and then have what they pleaſe, not under 100, nor exceeding 500. Acres,
+confirmed to them, and their heirs for ever, paying half a Crown an Acre, never to be raiſed upon
+them; And for the Charge of the firſt year, they may eaſily Calculate it, by carry<g ref="char:EOLhyphen"/>ing over as
+much <hi>Oat-meal,</hi> as will ſerve them <hi>Bread,</hi> and the fraught will be
+inconſi<g ref="char:EOLhyphen"/>derable, and they will get fleſh enough in the Countrey for killing, without charge,
+and will be able to clear more ground the firſt winter, then will double ſerve their Families
+after the firſt harveſt, ſo that they will only have to buy with the Commodities they carry
+over with them, Seed, and Beaſts.</p>
+            <p>The Charge of tranſportation, is, for every Man or Woman 5. <hi>lib. ſtarling,</hi>
+paſ<g ref="char:EOLhyphen"/>ſadge and intertainment, for Children under 10. years of age, 50. ſhillings and Sucking
+Children nothing, 40. ſhillings for the tunne of goods, and often under.</p>
+            <p>The Voyage is Judged leſſe Sea hazard then either to <hi>Holland,</hi> or <hi>London,</hi>
+and if there be any tollerable winds, it is eaſily made in 6. weeks, There went a ſhip laſt
+harveſt to Weſt <hi>Jarſey,</hi> from the Road of <hi>Aberdeen:</hi> and they came to
+<hi>Delaware-River-mouth</hi> in 8. weeks, though they had great Calmes, and of be<g ref="char:EOLhyphen"/>twixt 30. and
+40. paſſengers that went out of <hi>Aberdeen</hi> ſeveral women, and Children, not above 4.
+of them had been at Sea before, not one dyed, nor was ſick by the way.</p>
+            <p>For ordinary ſervants, who are willing to go over, after 4. Years ſervice from the time of
+their arryvall there, (during which time they ſhall be well enter<g ref="char:EOLhyphen"/>tained in meat and Cloathing)
+they ſhall have Set out to each 25. Acres to them and theirs for ever, paying 2. pence an Acre,
+as much Corne as will ſow an Acre, and a Sute of now Cloaths; Now, Conſider that there is 5.
+pound Sterling payed for their paſſage, this is good termes; and that after the terme of their
+Service is expired, they will gain more in one year there, then they can do in two at home, towards
+the gaining of a Stock to their land, and it may be eaſily conceived
+<pb n="15" facs="tcp:48132:8"/>that they will be well treated by their Maſters, ſince it is their
+Intereſt to do ſo there more then here, for that they would be Conſiderable Loſers, either
+by their Death, or ſickneſſe, being out ſo great an advance for them, if, by any
+hard<g ref="char:EOLhyphen"/>ſhip, they ſhould be diſabled to ſerve out their times.</p>
+            <p>All Sorts of Tradeſmen may make a brave Livelyhood there, ſuch as <hi>Carpen<g ref="char:EOLhyphen"/>ters,
+Ship-wrights, Rope-makers, Smiths, Brick-makers, Taylors, Tanners, Cowpers, Mill-wrights, Joyners,
+Shooe-makers, &amp;c.</hi> and any ſuch like, who are willing to go ſerve the four years, not
+having to tranſport themſelves, ſhall in Conſideration of their Trade, have (after the
+expiring of their Service) 30. Acres, at 2. pence the Acre, as much Corn as well ſowe 2. Acres, a
+Cow and a Sow: And for the incouragement of any ſuch Tradſmen, who are willing to go over and
+tranſport themſelves, they ſhal have the like quantitie of Land, at the ſame rent, and the
+Proprietors will oblidge themſelves to find them work for a year, after their ar<g ref="char:EOLhyphen"/>ryval, at as
+good Rates as they can have here, untill they furniſh themſelves with ſome Stock to make
+better advantage upon the place.</p>
+            <p>We will not encourage any to go there in expectation of Gold and Silver Mines; yea, tho there
+were ſuch in the Countrey, We ſhould not be curious nor induſtrous to ſeek them out: being,
+beſides the Toyl, and Labour, but occaſi<g ref="char:EOLhyphen"/>ons of envy, and Emulation: Nor, yet is there Suggar
+or Indigo there, or Cotton, nor any ſtore of Tobacco, tho it grows there very well. But We
+conſider it not our intereſt to imploymuch ground on it; The Riches of this Countrey
+Conſiſts in that which is moſt Subſtantial and neceſſar for the uſe of man, <hi>to
+wit,</hi> plenty of Corn and Cattle (and they have beſides Vines, and Fruits in abundance, as
+before has been ſaid) ſo that who dwell here, need not to be oblidged to any other Plantation,
+for any thing neceſſary, for life; and all the other Plantations are beholden to them for
+neceſſarys, without which, their other Curioſities would little avail them: This, with the
+Province of <hi>New-York,</hi> being the <hi>Granary</hi> or <hi>Store-houſe</hi> of the
+<hi>Weſt-Indies,</hi> without which <hi>Barbadoes</hi> and the <hi>Lee-wards-Iſlands.</hi>
+could not ſub<g ref="char:EOLhyphen"/>ſiſt; Yea, <hi>New-England</hi> is forced to come there every year for Corn,
+this, with the advantage of Fiſhery, being Conſidered, will eaſily induce ſober and
+induſtri<g ref="char:EOLhyphen"/>ous People, to prefer a Plantation here to moſt other places.</p>
+            <p>There will a Ship go from <hi>Leith</hi> about <hi>Mid-Summer</hi> next, which will alſo call
+at <hi>Aberdeen:</hi> ſuch as deſire to be more fully informed, or to treat with any of the
+Proprietors, may addreſs themſelves to <hi>Androw Hamiltouns,</hi> at the ſign of the Ship,
+over againſt the Court of Guard, in <hi>Edinburgh;</hi> or at <hi>David Falkconers, Merchant</hi>
+there, who will either give them ſatisfaction, or find them occaſion to treat with ſome of
+the Proprietors. Alſo, at <hi>Aberdeen,</hi> information may be had from <hi>George Pyper,</hi>
+and <hi>Thomas Mercer,</hi> who will be heard of at <hi>Robert Gerards,</hi> or <hi>John
+Leitch,</hi> their Shops in the <hi>Broad-Gate.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
